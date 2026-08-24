@@ -1,0 +1,4 @@
+interface:
+  display_name: "色窗杂志封面"
+  short_description: "通过摄影取景窗口与结构性色块制作具有现代感的杂志封面"
+  default_prompt: "Use $chromatic-window-cover to design a modern editorial cover from this photo."

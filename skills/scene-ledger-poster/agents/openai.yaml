@@ -1,0 +1,4 @@
+interface:
+  display_name: "场景档案海报"
+  short_description: "将普通照片编排成克制清晰且具有信息层级的现代视觉档案海报"
+  default_prompt: "Use $scene-ledger-poster to turn this photo into an editorial scene archive poster."

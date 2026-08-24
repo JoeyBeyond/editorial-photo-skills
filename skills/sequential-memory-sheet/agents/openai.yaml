@@ -1,0 +1,4 @@
+interface:
+  display_name: "连续记忆画页"
+  short_description: "把单张照片重组为具有时间节奏和阅读顺序的连续叙事画页"
+  default_prompt: "Use $sequential-memory-sheet to turn this photo into a sequential visual memory sheet."
